@@ -9,13 +9,14 @@
 * Documentation: https://torrent-client-cli.readthedocs.io.
 
 
-Features
---------
+## Features
 
 * TODO
 
-Resources
----------
+## Resources
 
-* BEP-03 : https://github.com/bittorrent/bittorrent-protocol/blob/master/bep03.txt
+* BEP-0003 (The BitTorrent Protocol Specification) : https://www.bittorrent.org/beps/bep_0003.html 
+* BEP-005 (Distributed Sloppy Hash Table (DHT) Protocol) : https://www.bittorrent.org/beps/bep_0005.html 
+* BEP-0011 (Peer Exchange (PEX)) : https://www.bittorrent.org/beps/bep_0011.html 
+* BEP-0015 (UDP Tracker Protocol for BitTorrent) : https://www.bittorrent.org/beps/bep_0015.html  
 * Incentives Build Robustness in BitTorrent : http://bittorrent.org/bittorrentecon.pdf 
