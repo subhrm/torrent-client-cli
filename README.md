@@ -1,6 +1,6 @@
 # Torrent Client CLI
 
-[![image](https://img.shields.io/pypi/v/torrent_client_cli.svg)](https://pypi.python.org/pypi/torrent_client_cli) [![image](https://img.shields.io/travis/subhrm/torrent_client_cli.svg)](https://travis-ci.com/subhrm/torrent_client_cli) [![image](https://readthedocs.org/projects/torrent-client-cli/badge/?version=latest)](https://torrent-client-cli.readthedocs.io/en/latest/?version=latest)
+[![image](https://img.shields.io/pypi/v/torrent_client_cli.svg)](https://pypi.python.org/pypi/torrent_client_cli) [![image](https://img.shields.io/travis/subhrm/torrent-client-cli.svg)](https://travis-ci.com/subhrm/torrent-client-cli) [![image](https://readthedocs.org/projects/torrent-client-cli/badge/?version=latest)](https://torrent-client-cli.readthedocs.io/en/latest/?version=latest)
 
 
 ## Torrent CLI Client application
