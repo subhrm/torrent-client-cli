@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Subhendu Ranjan Mishra <subhendu.r.mishra@hotmail.com>
+* Subhendu Ranjan Mishra <github.com/subhrm>
 
 Contributors
 ------------
